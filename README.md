@@ -1,1 +1,1 @@
-# read-s3-python
+### Open this [notebook](https://github.com/prakhyatkarri/read-s3-python/blob/main/read-files-from-s3.ipynb) for steps to read a file from S3 using Python
